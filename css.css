@@ -16,7 +16,7 @@ body{
 }
 
 #camelotimagem{
-    background-image: url(./imagens/Camelot.jpg);
+    background-image: url(Camelot.jpg);
     background-repeat: no-repeat;
     background-size:100%;
     height: 50vw;
